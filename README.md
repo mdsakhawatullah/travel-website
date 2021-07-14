@@ -6,5 +6,5 @@
 - Contains animations when scrolling.
 - Includes a dark and light mode.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
+<h1>Homepahe</h1>
 ![travel-website](./img/preview.jpg)
