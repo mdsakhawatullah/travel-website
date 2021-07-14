@@ -7,4 +7,4 @@
 - Includes a dark and light mode.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![travel-website](./preview.jpg)
+![travel-website](./img/preview.jpg)
