@@ -1,5 +1,5 @@
 # Technology used
-![tecnology u8sed](./tec.jpg)
+![tecnology used](./img/tec.jpg)
 
 ###  Responsive Travel Website 
 
